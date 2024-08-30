@@ -1,0 +1,75 @@
+/*************************************************************
+Typography CSS
+**************************************************************/
+
+/* Apply the font family to all elements */
+* {
+  font-family: 'Outfit', sans-serif;
+}
+
+/* Headings */
+h1 {
+  font-size: 2em;
+  font-weight: bold;
+  /* Add more styles as needed */
+}
+
+h2 {
+  font-size: 1.5em;
+  /* Add more styles as needed */
+}
+
+h3 {
+  font-size: 1.17em;
+  /* Add more styles as needed */
+}
+
+h4 {
+  font-size: 1em;
+  /* Add more styles as needed */
+}
+
+h5 {
+  font-size: 0.83em;
+  /* Add more styles as needed */
+}
+
+h6 {
+  font-size: 0.67em;
+  /* Add more styles as needed */
+}
+
+/* Paragraphs */
+p {
+  line-height: 1.5;
+  /* Add more styles as needed */
+}
+
+/* Links */
+a {
+  color: #007bff; /* Default link color */
+  text-decoration: none;
+  transition: color 0.3s ease;
+}
+
+a:hover {
+  color: #0056b3; /* Hover color */
+}
+
+/* Lists */
+ul, ol {
+  margin: 0;
+  padding: 0;
+}
+
+li {
+  margin-bottom: 0.5em;
+}
+
+/* Blockquotes */
+blockquote {
+  margin: 0;
+  padding: 0 1em;
+  border-left: 4px solid #007bff; /* Example border color */
+  font-style: italic;
+}

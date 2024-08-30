@@ -1,0 +1,45 @@
+/*************************************************************
+Main CSS
+**************************************************************
+Author Name: Nouman Javaid
+Author URL: https://noumanjavaid.com/
+Legal Rights: Nouman Javaid
+Developer Rights: Nouman Javaid
+Project: Substential Presence Test
+Demo URL: https://azora.noumanjavaid.com/
+**************************************************************/
+
+/* Import Google Font */
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap');
+
+/*Reset CSS*/
+@import url('global/reset.css');
+
+/*Left Side Menu CSS*/
+@import url('global/menu.css');
+
+/*Layout CSS*/
+@import url('global/layout.css');
+
+/*Footer CSS*/
+@import url('global/footer.css');
+
+/*Typography CSS*/
+@import url('global/typography.css');
+
+/*Components CSS*/
+@import url('global/components.css');
+
+/*Responsive CSS*/
+@import url('responsive/responsive.css');
+
+/*Icon Library CSS*/
+@import url('icons/uicons.css');
+
+/*Bootstrap Minified CSS*/
+@import url('bootstrap/bootstrap.min.css');
+
+/*Bootstrap CSS*/
+@import url('bootstrap/bootstrap.css');
+
+

@@ -1,0 +1,123 @@
+body {
+    background: #fbfbfb;
+}
+#email {
+    border: none !important;
+    border-bottom: 1px solid #c3c3c3 !important;
+    border-radius: 0px !important;
+    margin-bottom: 25px !important;
+    transition: all ease 0.5s;
+    padding-left: 0px;
+}
+#email:focus {
+    box-shadow: none !important;
+    padding-left: 15px;
+    transition: all ease 0.5s;
+}
+#name {
+    border: none !important;
+    border-bottom: 1px solid #c3c3c3 !important;
+    border-radius: 0px !important;
+    margin-bottom: 25px !important;
+    transition: all ease 0.5s;
+    padding-left: 0px;
+}
+#name:focus {
+    box-shadow: none !important;
+    padding-left: 15px;
+    transition: all ease 0.5s;
+}
+#password {
+    border: none !important;
+    border-bottom: 1px solid #c3c3c3 !important;
+    border-radius: 0px !important;
+    margin-bottom: 25px !important;
+    transition: all ease 0.5s;
+    padding-left: 0px;
+}
+#password:focus {
+    box-shadow: none !important;
+    padding-left: 15px;
+    transition: all ease 0.5s;
+}
+#password-confirm {
+    border: none !important;
+    border-bottom: 1px solid #c3c3c3 !important;
+    border-radius: 0px !important;
+    margin-bottom: 25px !important;
+    transition: all ease 0.5s;
+    padding-left: 0px;
+}
+#password-confirm:focus {
+    box-shadow: none !important;
+    padding-left: 15px;
+    transition: all ease 0.5s;
+}
+
+
+a {
+    color: #29358d !important;
+}
+.login-btn > button {
+    width: 170px;
+    margin-top: 20px;
+    background: #29358d;
+    border-radius: 26px;
+    border: none !important;
+    transition: all ease 0.5s;
+    padding: 12px;
+}
+button.btn.btn-primary:hover {
+    background: #ab1d36;
+}
+.btn-login {
+    width: 170px !important;
+    background: #29358d !important;
+    border-radius: 26px;
+    border: none !important;
+    transition: all ease 0.5s;
+    padding: 12px;
+    text-align: center;
+    margin-top: -20px;
+    color: #fff !important;
+    text-decoration: none;
+    display: inline-block;
+}
+
+.btn-login:hover {
+    background: #ab1d36 !important;
+}
+.navbar {
+    list-style: none;
+    display: contents !important;
+    padding: 0 !important;
+    margin: 0;
+}
+.forget-pass a {
+    padding: 0;
+    margin: 0;
+    position: relative;
+    left: 4px;
+    font-size: 13px;
+    top: -3px;
+}
+label.form-check-label {
+    font-size: 14px;
+    position: relative;
+    left: 4px;
+}
+.forget-pass {
+    margin-top: 15px;
+}
+.navbar {
+    list-style: none;
+}
+.btn-login i {
+    position: relative;
+    top: 3px;
+    left: 10px;
+}
+.card-title {
+    margin: 0 !important;
+    font-size: 16px;
+}
